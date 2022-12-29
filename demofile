@@ -1,6 +1,6 @@
 sdfdgfdfgnew commit here  inpipeline{
     tools{
-        jdk 'myjava'
+        jdk 'enJjava'
      sdfsfsda   maven 'mymaven131'
     }
     agent any new chnage
